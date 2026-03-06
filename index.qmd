@@ -1,0 +1,31 @@
+---
+title: "Home"
+---
+
+# Roberta Passiatore, PhD
+
+Assistant Professional Researcher (Reseach Faculty) 
+Noel Drury Depression Institute for Translational Depression Discoveries  
+Department of Psychiatry & Human Behavior  
+University of California, Irvine
+
+## About Me
+
+My research aims to advance a personalized understanding of brain development and mental health by identifying the neural, genetic, and environmental mechanisms that shape individual trajectories of risk and resilience.
+
+Using multimodal neuroimaging, computational modeling, and imaging genetics, I investigate how reward learning, emotion regulation, and cognitive control vary across individuals and developmental stages. My long-term goal is to develop mechanistic, person-centered models that improve early identification and intervention for depression, anxiety, and related mood disorders.
+
+## Research Interests
+
+- Computational psychiatry
+- Reward learning and anhedonia
+- Multimodal neuroimaging
+- Imaging genetics
+- Developmental cognitive neuroscience
+- Precision psychiatry
+
+## Links
+
+- Email: rpassiat@uci.edu
+- Scopus ID: 57205701297
+- GitHub: robertapassiatore (https://github.com/robertapassiatore)
